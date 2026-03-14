@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ブルーユニオン",
+  "base_artist": "DIVELA",
+  "createdAt": "2026-03-14T15:25:22.141164Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブルーユニオン (feat. 初音ミク)",
+      "artist": "DIVELA",
+      "has_synced": false,
+      "path": "select/pl_01_ブルーユニオン_(feat._初音ミク)_DIVELA.txt"
+    }
+  ]
+}
